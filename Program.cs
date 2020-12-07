@@ -1,31 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace _14.AssociativeArrayMapHashTableDictionary
+namespace _15.AssociativeArray
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int[] integerArray =  new int[5];
-            integerArray[4] = 15;
-            integerArray[1] = 6;
-            integerArray[0] = 12;
+            var phonebook = new Dictionary<string, string>();
+            phonebook["Jordan"] = "555112212";
+            phonebook["George"] = "1234564789";
+            phonebook["Peter"] = "98745612";
+            phonebook["Aleks"] = "98745613";
+            Console.WriteLine(phonebook.Count); //give me the value of teh key named -> George
+            Console.WriteLine(String.Join(',', phonebook.Keys)); //printes collection of keys
+            Console.WriteLine(String.Join(',', phonebook.Values)); //printes a collection of values
+            Console.WriteLine(String.Join(',', phonebook)); //printes the pairs :  Key->Value;
+            // key-Value Entry -key-value record-> key value pair;
 
-
-            Dictionary<string, string> phonebook = new Dictionary<string, string>();
-            // We create  a new dictionarym new object
-            // on dictionaries we have assosiation, key - > associated with a value; 
-            //the value is associated woth key -> we specify the ytpe of teh key, the type of teh value
-            phonebook["Jonh Dow"] = "0034567887"; // We initialize the dictionary 
-            phonebook["John Dow"] = "12425"; // this will override the previus number //we add new telefone value
-            //the associative arrays are key-value pairs
-            //the normal arrays automatically make the indexing, when resizing /they dont store index, 
-            // normal arrays store only values, they dotn store key-value pairs !
-
-           // associative arrays are more flexible , we choose the type of key; string, int, double, ..
-
-            //dictunary has a property Count !
         }
     }
 }

@@ -1,0 +1,12 @@
+D:\QA__\GitProjects\DictionaryAssociativeArray\bin\Debug\netcoreapp3.1\14.AssociativeArrayMapHashTableDictionary.exe
+D:\QA__\GitProjects\DictionaryAssociativeArray\bin\Debug\netcoreapp3.1\14.AssociativeArrayMapHashTableDictionary.deps.json
+D:\QA__\GitProjects\DictionaryAssociativeArray\bin\Debug\netcoreapp3.1\14.AssociativeArrayMapHashTableDictionary.runtimeconfig.json
+D:\QA__\GitProjects\DictionaryAssociativeArray\bin\Debug\netcoreapp3.1\14.AssociativeArrayMapHashTableDictionary.runtimeconfig.dev.json
+D:\QA__\GitProjects\DictionaryAssociativeArray\bin\Debug\netcoreapp3.1\14.AssociativeArrayMapHashTableDictionary.dll
+D:\QA__\GitProjects\DictionaryAssociativeArray\bin\Debug\netcoreapp3.1\14.AssociativeArrayMapHashTableDictionary.pdb
+D:\QA__\GitProjects\DictionaryAssociativeArray\obj\Debug\netcoreapp3.1\14.AssociativeArrayMapHashTableDictionary.AssemblyInfoInputs.cache
+D:\QA__\GitProjects\DictionaryAssociativeArray\obj\Debug\netcoreapp3.1\14.AssociativeArrayMapHashTableDictionary.AssemblyInfo.cs
+D:\QA__\GitProjects\DictionaryAssociativeArray\obj\Debug\netcoreapp3.1\14.AssociativeArrayMapHashTableDictionary.csproj.CoreCompileInputs.cache
+D:\QA__\GitProjects\DictionaryAssociativeArray\obj\Debug\netcoreapp3.1\14.AssociativeArrayMapHashTableDictionary.dll
+D:\QA__\GitProjects\DictionaryAssociativeArray\obj\Debug\netcoreapp3.1\14.AssociativeArrayMapHashTableDictionary.pdb
+D:\QA__\GitProjects\DictionaryAssociativeArray\obj\Debug\netcoreapp3.1\14.AssociativeArrayMapHashTableDictionary.genruntimeconfig.cache

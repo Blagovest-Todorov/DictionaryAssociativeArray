@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bla\\source\\repos\\01.DataStructures\\14.AssociativeArrayMapHashTableDictionary\\14.AssociativeArrayMapHashTableDictionary.csproj",
+      "projectUniqueName": "D:\\QA__\\GitProjects\\DictionaryAssociativeArray\\14.AssociativeArrayMapHashTableDictionary.csproj",
       "projectName": "14.AssociativeArrayMapHashTableDictionary",
-      "projectPath": "C:\\Users\\Bla\\source\\repos\\01.DataStructures\\14.AssociativeArrayMapHashTableDictionary\\14.AssociativeArrayMapHashTableDictionary.csproj",
+      "projectPath": "D:\\QA__\\GitProjects\\DictionaryAssociativeArray\\14.AssociativeArrayMapHashTableDictionary.csproj",
       "packagesPath": "C:\\Users\\Bla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bla\\source\\repos\\01.DataStructures\\14.AssociativeArrayMapHashTableDictionary\\obj\\",
+      "outputPath": "D:\\QA__\\GitProjects\\DictionaryAssociativeArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bla\\AppData\\Roaming\\NuGet\\NuGet.Config",
