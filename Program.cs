@@ -22,6 +22,20 @@ namespace _15.AssociativeArray
             Console.WriteLine(String.Join(',', phonebook)); //printes the pairs :  Key->Value;
                                                             // key-Value Entry -key-value record-> key value pair;
 
+            // ContainsKey checks if we already have a key 
+
+            //if (!phonebook.ContainsKey("George"))
+            //{
+            //    phonebook.Add("George", "+134566");   
+            //}
+            //Console.WriteLine(String.Join(',', phonebook));
+            //Console.WriteLine(phonebook.ContainsKey("Jor")); //We look for a existing key with Contains.Key();
+            //Console.WriteLine(phonebook["Jordan"]);
+
+            if (!phonebook.ContainsValue("98745613"))  //checks if the value does not exist , then adds a value
+            {
+                Console.WriteLine("Key-Value added"); //executed this code 
+            }
 
 
         }

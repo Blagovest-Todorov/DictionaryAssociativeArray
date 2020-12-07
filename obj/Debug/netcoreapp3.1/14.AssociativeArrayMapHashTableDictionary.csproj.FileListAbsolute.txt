@@ -10,3 +10,4 @@ D:\QA__\GitProjects\DictionaryAssociativeArray\obj\Debug\netcoreapp3.1\14.Associ
 D:\QA__\GitProjects\DictionaryAssociativeArray\obj\Debug\netcoreapp3.1\14.AssociativeArrayMapHashTableDictionary.dll
 D:\QA__\GitProjects\DictionaryAssociativeArray\obj\Debug\netcoreapp3.1\14.AssociativeArrayMapHashTableDictionary.pdb
 D:\QA__\GitProjects\DictionaryAssociativeArray\obj\Debug\netcoreapp3.1\14.AssociativeArrayMapHashTableDictionary.genruntimeconfig.cache
+D:\QA__\GitProjects\DictionaryAssociativeArray\obj\Debug\netcoreapp3.1\14.AssociativeArrayMapHashTableDictionary.csprojAssemblyReference.cache
